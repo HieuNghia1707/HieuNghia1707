@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Hieu Nghia</h1>
 <p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+  <h3 align="center">A passionate developer from Vietnam </h3>
 </p>
 
 
