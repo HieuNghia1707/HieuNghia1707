@@ -1,4 +1,4 @@
-![image](https://github.com/HieuNghia1707/HieuNghia1707/assets/124112942/f2343731-ff20-4e35-8317-4aab1bf7ad74)![image](https://github.com/HieuNghia1707/HieuNghia1707/assets/124112942/df25d5ac-afda-4ab9-a283-d5492d28ae1f)<img align="left" width="400" src="https://github.com/HieuNghia1707">
+
 <h1 align="center">Hi 👋, I'm Hieu Nghia</h1>
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
